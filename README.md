@@ -1,1 +1,6 @@
-AndroidDAM2_22_23
+# Ejemplos de clase de DAM2
+Solo con fines académicos.
+
+## Licencia
+
+https://aranzabe.mit-license.org/
