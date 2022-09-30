@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ma première fois</string>
+    <string name="botonPulsar">Pressé</string>
+    <string name="cajaNombre">Nom</string>
+    <string name="dimeTuNombre">Dis moi ton nom</string>
+</resources>

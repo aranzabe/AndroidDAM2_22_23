@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mi primera vez</string>
+    <string name="botonPulsar">Púlsame</string>
+    <string name="cajaNombre">Nombre</string>
+    <string name="dimeTuNombre">Dime tu nombre</string>
+</resources>
