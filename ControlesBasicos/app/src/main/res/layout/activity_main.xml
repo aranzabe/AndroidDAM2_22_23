@@ -7,12 +7,118 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/txtCaja"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Número"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.246"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.049" />
+
+    <EditText
+        android:id="@+id/editCaja"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.83"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <CheckBox
+        android:id="@+id/chB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No seleccionado"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.353"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.12" />
+
+    <Button
+        android:id="@+id/btBoton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Púlsame"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.278" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="215dp"
+        android:layout_height="102dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/editCaja"
+        app:layout_constraintVertical_bias="0.359">
 
+        <RadioButton
+            android:id="@+id/rb1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opción 1" />
+
+        <RadioButton
+            android:id="@+id/rb2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opción 2" />
+    </RadioGroup>
+
+    <ToggleButton
+        android:id="@+id/tBot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No pulsado"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup"
+        app:layout_constraintVertical_bias="0.17" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="193dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip4"
+        android:layout_width="65dp"
+        android:layout_height="62dp"
+        android:text="Uno"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="497dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip5"
+        android:layout_width="82dp"
+        android:layout_height="65dp"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="497dp" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        tools:layout_editor_absoluteX="309dp"
+        tools:layout_editor_absoluteY="609dp"
+        tools:srcCompat="@tools:sample/avatars" />
 </androidx.constraintlayout.widget.ConstraintLayout>
