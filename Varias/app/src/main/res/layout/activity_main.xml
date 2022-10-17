@@ -82,4 +82,36 @@
         app:layout_constraintTop_toBottomOf="@+id/btVentana2"
         app:layout_constraintVertical_bias="0.127" />
 
+    <Button
+        android:id="@+id/btEsperaRespuestaDepre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Llamar y esperar respuesta deprecated"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.552"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btReiniciar"
+        app:layout_constraintVertical_bias="0.214" />
+
+    <TextView
+        android:id="@+id/txtValorDevuelto"
+        android:layout_width="279dp"
+        android:layout_height="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btEsperaRespuestaDepre"
+        app:layout_constraintVertical_bias="0.605" />
+
+    <Button
+        android:id="@+id/btEsperarRespuestaActual"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Llamar y esperar respuesta actual"
+        app:layout_constraintBottom_toTopOf="@+id/txtValorDevuelto"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btEsperaRespuestaDepre" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
