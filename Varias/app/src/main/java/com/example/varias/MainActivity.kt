@@ -24,6 +24,9 @@ class MainActivity : AppCompatActivity() {
             // Set text view with string
             binding.txtValorDevuelto.text = returnString
         }
+        else {
+            
+        }
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
