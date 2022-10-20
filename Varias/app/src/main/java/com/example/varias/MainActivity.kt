@@ -1,12 +1,12 @@
 package com.example.varias
 
+import Modelo.Almacen
 import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.TextView
 import androidx.activity.result.contract.ActivityResultContracts
-import com.example.varias.Modelo.Persona
+import Modelo.Persona
 import com.example.varias.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -20,6 +20,9 @@ class MainActivity : AppCompatActivity() {
             val data: Intent? = result.data
             // Get String data from Intent
             val returnString = data!!.getStringExtra("valorEdicionV2")
+            var p: Persona = data!!.getSerializableExtra("obj") as Persona
+            Almacen.addPersona(p)
+            Almacen.persona
             //val returnString = data!!.getSerializableExtra("objeto")
             // Set text view with string
             binding.txtValorDevuelto.text = returnString
@@ -58,7 +61,7 @@ class MainActivity : AppCompatActivity() {
         binding.btEsperaRespuestaDepre.setOnClickListener {
             // Start the SecondActivity
             val intent = Intent(this, Ventana2::class.java)
-            startActivityForResult(intent, SECOND_ACTIVITY_REQUEST_CODE)
+            startActivityForResult(intent, SECOND_ACTIVITY_REQUEST_CODE) //override fun onActivityResult
         }
 
         //Método más actual para llamar a una ventana2 y esperar que esa ventana nos devuelva resultados.
@@ -80,9 +83,13 @@ class MainActivity : AppCompatActivity() {
 
                 // Get String data from Intent
                 val returnString = data!!.getStringExtra("keyName")
-
-                // Set text view with string
+                var p: Persona = data!!.getSerializableExtra("obj") as Persona
+                Almacen.addPersona(p)
+                    // Set text view with string
                 binding.txtValorDevuelto.text = returnString
+            }
+            else {
+
             }
         }
     }

@@ -4,9 +4,7 @@ import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import android.widget.TextView
-import com.example.varias.Modelo.Persona
+import Modelo.Persona
 import com.example.varias.databinding.ActivityVentana2Binding
 
 class Ventana2 : AppCompatActivity() {
@@ -44,6 +42,8 @@ class Ventana2 : AppCompatActivity() {
 
             // Put the String to pass back into an Intent and close this activity
             val intent = Intent()
+            var p = Persona("Jose",12)
+            intent.putExtra("obj",p)
             intent.putExtra("keyName", stringToPassBack)
             setResult(Activity.RESULT_OK, intent)
             finish()
@@ -57,6 +57,8 @@ class Ventana2 : AppCompatActivity() {
             // Put the String to pass back into an Intent and close this activity
             val intent = Intent()
             intent.putExtra("valorEdicionV2", stringToPassBack)
+            var p = Persona("Jose",12)
+            intent.putExtra("obj",p)
             //val p:Persona = Persona(editText.text.toString())
             //intent.putExtra("objeto",p) //El objeto debe ser serailizable, para ello ver clase Pesona.kt
 

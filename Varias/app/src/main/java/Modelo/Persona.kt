@@ -1,3 +1,3 @@
-package com.example.varias.Modelo
+package Modelo
 
 data class Persona(var nombre:String, var edad:Int) : java.io.Serializable
