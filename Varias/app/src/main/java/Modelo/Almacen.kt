@@ -1,5 +1,6 @@
 package Modelo
 
+//Funcionaría como una clase Singleton.
 object Almacen {
     var persona = ArrayList<Persona>()
 
