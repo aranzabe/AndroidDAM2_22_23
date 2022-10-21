@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/faranzabe/.gradle/daemon/7.4/com.example.recyclersviews.app-mergeDebugResources-29:/layout/item_card.xml",
+        "source": "/home/faranzabe/.gradle/daemon/7.4/com.example.recyclersviews.app-main-32:/layout/item_card.xml"
+    },
+    {
+        "merged": "/home/faranzabe/.gradle/daemon/7.4/com.example.recyclersviews.app-mergeDebugResources-29:/layout/activity_main.xml",
+        "source": "/home/faranzabe/.gradle/daemon/7.4/com.example.recyclersviews.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recyclersviews.app-mergeDebugResources-29:/layout/item_card.xml",
+        "source": "com.example.recyclersviews.app-main-32:/layout/item_card.xml"
+    }
+]

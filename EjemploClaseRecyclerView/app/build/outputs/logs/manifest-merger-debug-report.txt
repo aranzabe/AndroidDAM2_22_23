@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.databinding:viewbinding:7.3.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/1e2d4a281349d6fe26afc7cb1af67774/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/0691162d6405a829730068ea329d320a/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/7fee6e7a0bc6b24a3d14f3597e3de3be/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4bb591a96659a146fd16dea6a4adf342/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4a197e7e7ec1a36de74085f3dc834663/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/14fe7627a94fc3d5e4e1b3b993631fe6/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/25c5934b01470ebe17f8198e44d42ea4/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/696db8724abd540f4d19ea3c852cd44b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/c281da403075e79539671c90b683ba67/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/ace80d800a6489f358768e15150ec808/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f53b2134411f126cf1058d362519814a/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/2161fa57ea9d94e1a9721670cde4b6b6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/ce5ba10450ccb0d3eee14dffb5aa61fa/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6ed643db02ab3fe82b673a09c89a6ff1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6c17ad1677c3056488032c8ceff3fdb9/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/b69933c049742bb242ab99866f253754/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/c2aa56cac54b6a7764dbb1a4877bb746/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/7e524dbb041cadf7fcc919eb1c85c8aa/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/40b58e7307ee124b0eaeb612206b998c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/5619abf983d56c6c0652edbf84b80fdc/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/b2aa4855355bc4fd6970f855d6bff733/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/c5ab426672b9683d3256e69358d18dcd/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4c96327ed992a436959a6ee0435da96e/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f0b0568b9051dcd475a795882335406e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f9ae03d091100da9c0469d13f492dd12/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/5ceb671804f624c7c46d7482278cc07a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f23b1e40992b5f117136953f8401f817/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/695d671defe76c243302e4ca4f447dd5/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6ceba6ef49ddec3dad8ba3a475a3eb7b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/675339d019e4288497c97f4af26129f4/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/2d87bab707088c2d4bde83d3abe289a6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/cc366af3f215ef8394b9df2310ad2fe4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/93a9c3fe323ceebdca296b8f3c7736a5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/9f2406c1c45c8d2173d0d4e9ec431d2f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6d9d7a0e5f63759df21c6292df586f9f/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/159a56c2add290e812b0fd907240b4bd/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/b27b8d7c5e892b612ee94bd1010a4846/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/a0bbac8179796e588527fc80e6465d9b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/d568c8b0c1a0ef493732f3f71de0dd79/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/5859a58d8e7c3e7596228fca6c8407d0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.4.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/7fee6e7a0bc6b24a3d14f3597e3de3be/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/7fee6e7a0bc6b24a3d14f3597e3de3be/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4bb591a96659a146fd16dea6a4adf342/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4bb591a96659a146fd16dea6a4adf342/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/14fe7627a94fc3d5e4e1b3b993631fe6/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/14fe7627a94fc3d5e4e1b3b993631fe6/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.7.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4c96327ed992a436959a6ee0435da96e/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4c96327ed992a436959a6ee0435da96e/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6ceba6ef49ddec3dad8ba3a475a3eb7b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6ceba6ef49ddec3dad8ba3a475a3eb7b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/2d87bab707088c2d4bde83d3abe289a6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/2d87bab707088c2d4bde83d3abe289a6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4c96327ed992a436959a6ee0435da96e/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:11:9-62
+activity#com.example.ejemploclaserecyclerview.MainActivity
+ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/1e2d4a281349d6fe26afc7cb1af67774/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/1e2d4a281349d6fe26afc7cb1af67774/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/0691162d6405a829730068ea329d320a/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/0691162d6405a829730068ea329d320a/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/7fee6e7a0bc6b24a3d14f3597e3de3be/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/7fee6e7a0bc6b24a3d14f3597e3de3be/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4bb591a96659a146fd16dea6a4adf342/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4bb591a96659a146fd16dea6a4adf342/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4a197e7e7ec1a36de74085f3dc834663/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4a197e7e7ec1a36de74085f3dc834663/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/14fe7627a94fc3d5e4e1b3b993631fe6/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/14fe7627a94fc3d5e4e1b3b993631fe6/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/25c5934b01470ebe17f8198e44d42ea4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/25c5934b01470ebe17f8198e44d42ea4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/696db8724abd540f4d19ea3c852cd44b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/696db8724abd540f4d19ea3c852cd44b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/c281da403075e79539671c90b683ba67/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/c281da403075e79539671c90b683ba67/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/ace80d800a6489f358768e15150ec808/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/ace80d800a6489f358768e15150ec808/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f53b2134411f126cf1058d362519814a/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f53b2134411f126cf1058d362519814a/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/2161fa57ea9d94e1a9721670cde4b6b6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/2161fa57ea9d94e1a9721670cde4b6b6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/ce5ba10450ccb0d3eee14dffb5aa61fa/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/ce5ba10450ccb0d3eee14dffb5aa61fa/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6ed643db02ab3fe82b673a09c89a6ff1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6ed643db02ab3fe82b673a09c89a6ff1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6c17ad1677c3056488032c8ceff3fdb9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6c17ad1677c3056488032c8ceff3fdb9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/b69933c049742bb242ab99866f253754/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/b69933c049742bb242ab99866f253754/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/c2aa56cac54b6a7764dbb1a4877bb746/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/c2aa56cac54b6a7764dbb1a4877bb746/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/7e524dbb041cadf7fcc919eb1c85c8aa/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/7e524dbb041cadf7fcc919eb1c85c8aa/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/40b58e7307ee124b0eaeb612206b998c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/40b58e7307ee124b0eaeb612206b998c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/5619abf983d56c6c0652edbf84b80fdc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/5619abf983d56c6c0652edbf84b80fdc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/b2aa4855355bc4fd6970f855d6bff733/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/b2aa4855355bc4fd6970f855d6bff733/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/c5ab426672b9683d3256e69358d18dcd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/c5ab426672b9683d3256e69358d18dcd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4c96327ed992a436959a6ee0435da96e/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/4c96327ed992a436959a6ee0435da96e/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f0b0568b9051dcd475a795882335406e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f0b0568b9051dcd475a795882335406e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f9ae03d091100da9c0469d13f492dd12/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f9ae03d091100da9c0469d13f492dd12/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/5ceb671804f624c7c46d7482278cc07a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/5ceb671804f624c7c46d7482278cc07a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f23b1e40992b5f117136953f8401f817/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/f23b1e40992b5f117136953f8401f817/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/695d671defe76c243302e4ca4f447dd5/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/695d671defe76c243302e4ca4f447dd5/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6ceba6ef49ddec3dad8ba3a475a3eb7b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6ceba6ef49ddec3dad8ba3a475a3eb7b/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/675339d019e4288497c97f4af26129f4/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/675339d019e4288497c97f4af26129f4/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/2d87bab707088c2d4bde83d3abe289a6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/2d87bab707088c2d4bde83d3abe289a6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/cc366af3f215ef8394b9df2310ad2fe4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/cc366af3f215ef8394b9df2310ad2fe4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/93a9c3fe323ceebdca296b8f3c7736a5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/93a9c3fe323ceebdca296b8f3c7736a5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/9f2406c1c45c8d2173d0d4e9ec431d2f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/9f2406c1c45c8d2173d0d4e9ec431d2f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6d9d7a0e5f63759df21c6292df586f9f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/6d9d7a0e5f63759df21c6292df586f9f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/159a56c2add290e812b0fd907240b4bd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/159a56c2add290e812b0fd907240b4bd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/b27b8d7c5e892b612ee94bd1010a4846/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/b27b8d7c5e892b612ee94bd1010a4846/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/a0bbac8179796e588527fc80e6465d9b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/a0bbac8179796e588527fc80e6465d9b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/d568c8b0c1a0ef493732f3f71de0dd79/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/d568c8b0c1a0ef493732f3f71de0dd79/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/5859a58d8e7c3e7596228fca6c8407d0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/faranzabe/Escritorio/Corrigiendo/DadosyAdivina/DadosAdivina_JorgeArenas/JuegoDados/caches/transforms-3/5859a58d8e7c3e7596228fca6c8407d0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/faranzabe/Escritorio/Corrigiendo/DAM2/EjemploClaseRecyclerView/app/src/main/AndroidManifest.xml

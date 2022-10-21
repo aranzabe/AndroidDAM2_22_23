@@ -1,0 +1,2 @@
+com/example/ejemploclaserecyclerview/BuildConfig.java
+ com.example.ejemploclaserecyclerview.BuildConfig

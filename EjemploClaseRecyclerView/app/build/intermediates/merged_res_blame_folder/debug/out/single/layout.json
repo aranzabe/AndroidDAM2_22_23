@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.ejemploclaserecyclerview.app-mergeDebugResources-4:/layout/item_card.xml",
+        "source": "com.example.ejemploclaserecyclerview.app-main-7:/layout/item_card.xml"
+    },
+    {
+        "merged": "com.example.ejemploclaserecyclerview.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.ejemploclaserecyclerview.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ejemploclaserecyclerview.app-mergeDebugResources-4:/layout/item_lo.xml",
+        "source": "com.example.ejemploclaserecyclerview.app-main-7:/layout/item_lo.xml"
+    }
+]
