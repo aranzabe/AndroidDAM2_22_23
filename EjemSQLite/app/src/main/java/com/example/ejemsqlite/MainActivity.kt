@@ -89,7 +89,7 @@ class MainActivity : AppCompatActivity() {
         p = Conexion.buscarPersona(this, edDNI.text.toString())
         if (p!=null) {
             edNombre.setText(p.nombre)
-            edEdad.setText(p.edad)
+            edEdad.setText(p.edad.toString())
         } else {
             Toast.makeText(this, "No existe una persona con ese DNI", Toast.LENGTH_SHORT).show()
         }
