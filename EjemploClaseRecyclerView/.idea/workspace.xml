@@ -14,107 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5471469-8f20-4b6f-a2ec-8b11fffe75bf" name="Default Changelist" comment="RecyclerView y CardViews">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/ejemploclaserecyclerview/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/Adaptadores/MiAdaptadorRecycler.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/Modelo/FactoriaListaPersonaje.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/Modelo/FactoriaPersonaje.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/Modelo/Personaje.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ejemploclaserecyclerview/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gandalf.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_card.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_lo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/ejemploclaserecyclerview/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListasSpinners/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListasSpinners/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListasSpinners/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListasSpinners/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListasSpinners/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListasSpinners/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListasSpinners/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListasSpinners/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/androidTest/java/com/example/recyclersviews/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/java/Adaptadores/MiAdaptadorRecycler.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/java/Modelo/FactoriaListaPersonaje.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/java/Modelo/FactoriaPersonaje.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/java/Modelo/Personaje.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/java/com/example/recyclersviews/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/drawable-v24/gandalf.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/layout/item_card.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/app/src/test/java/com/example/recyclersviews/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclersViews/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemploRecycler2223/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemploRecycler2223/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclersViews/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclersViews/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +76,7 @@
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="false" />
+      <option name="ALL_USERS" value="true" />
       <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="CLEAR_APP_STORAGE" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
