@@ -30,9 +30,11 @@ class MainActivity : AppCompatActivity() {
 //            b.putString("nom", nombre)
 //            b.putInt("ed",edad)
 //            b.putSerializable("per",p)
-//
+
             //Opción b)
             var b = bundleOf("nom" to nombre, "ed" to edad, "per" to p)
+
+            //Común a las dos opciones.
             inte.putExtras(b)
             startActivity(inte)
         }
