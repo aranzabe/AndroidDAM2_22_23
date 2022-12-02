@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/fragmentoA">
+
+    <fragment
+        android:id="@+id/fragmentoA"
+        android:name="com.example.fragmentsnav.FragmentoA"
+        android:label="fragment_fragmento_a"
+        tools:layout="@layout/fragment_fragmento_a" >
+        <action
+            android:id="@+id/action_fragmentoA_to_fragmentoB"
+            app:destination="@id/fragmentoB"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentoB"
+        android:name="com.example.fragmentsnav.FragmentoB"
+        android:label="fragment_fragmento_b"
+        tools:layout="@layout/fragment_fragmento_b" >
+        <action
+            android:id="@+id/action_fragmentoB_to_fragmentoA"
+            app:destination="@id/fragmentoA"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+        <argument
+            android:name="numero"
+            app:argType="integer"
+            android:defaultValue="100" />
+        <argument
+            android:name="pers"
+            app:argType="Modelo.Persona" />
+    </fragment>
+</navigation>
