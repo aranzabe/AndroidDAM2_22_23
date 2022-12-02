@@ -1,11 +1,14 @@
 package com.example.fragmentos2023
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
+import android.widget.EditText
+import android.widget.TextView
 import android.widget.Toast
 
 // TODO: Rename parameter arguments, choose names that match
@@ -19,6 +22,7 @@ private const val ARG_PARAM2 = "param2"
  * create an instance of this fragment.
  */
 class FragmentoA : Fragment() {
+    private lateinit var miTextF1: TextView
     // TODO: Rename and change types of parameters
     private var param1: String? = null
     private var param2: String? = null
@@ -34,9 +38,23 @@ class FragmentoA : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_fragmento_a, container, false)
+        //return inflater.inflate(R.layout.fragment_fragmento1, container, false)
+        // Inflates the custom fragment layout
+        val view: View = inflater.inflate(R.layout.fragment_fragmento_a, container, false)
+
+        // Finds the TextView in the custom fragment
+        miTextF1 = view.findViewById<View>(R.id.txtF1) as TextView
+
+        // Gets the data from the passed bundle
+        val bundle = arguments
+        val message = bundle!!.getString("edTextActivity")
+
+        // Sets the derived data (type String) in the TextView
+        miTextF1.text = message
+
+        return view
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -44,6 +62,11 @@ class FragmentoA : Fragment() {
 
         val boton: Button = view.findViewById<Button>(R.id.btnFA)
         boton.setOnClickListener(){
+//            val texto = requireActivity().findViewById<View>(R.id.edCaja) as EditText
+//            texto.setText("Desde el fragment")
+            val editProfileIntent = Intent(this.context, MainActivity::class.java)
+            editProfileIntent.putExtra("ValorFromIntent","Desde Intent")
+            startActivity(editProfileIntent)
             Toast.makeText(this.context,"Pulsado el botón de dentro del F1",Toast.LENGTH_SHORT).show()
         }
     }

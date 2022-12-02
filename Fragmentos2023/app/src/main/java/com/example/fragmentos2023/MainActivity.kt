@@ -13,12 +13,23 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.btF1.setOnClickListener {
-            val fragmentoA = FragmentoA()
+        val inte = intent
+        val txtFromFragment = intent.getStringExtra("ValorFromIntent")
+        if (txtFromFragment != null) {
+            if (!txtFromFragment.isEmpty()){
+                binding.edCaja.append(txtFromFragment)
+            }
+        }
 
-            val fragmentTransaction =supportFragmentManager.beginTransaction()
-            fragmentTransaction.replace(R.id.miFragmento, fragmentoA)
-            fragmentTransaction.commit()
+        binding.btF1.setOnClickListener {
+            val mFragmentManager = supportFragmentManager
+            val fragmentTransaction = mFragmentManager.beginTransaction()
+            val fragment1 = FragmentoA()
+
+            val mBundle = Bundle()
+            mBundle.putString("edTextActivity",binding.edCaja.text.toString())
+            fragment1.arguments = mBundle
+            fragmentTransaction.replace(R.id.miFragmento, fragment1).commit()
         }
 
         binding.btF2.setOnClickListener {
