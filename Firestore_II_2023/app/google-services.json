@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139393917516",
+    "project_id": "limpio-eb5f8",
+    "storage_bucket": "limpio-eb5f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139393917516:android:44045091cd4d45bfbf4ae9",
+        "android_client_info": {
+          "package_name": "com.example.firestore_ii_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139393917516-d0q2s098iufp7ec1i6g26mp1ri0n14g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8C6lDvhHZrewAHt_P-z7QUSJ1PFxgmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139393917516-d0q2s098iufp7ec1i6g26mp1ri0n14g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
