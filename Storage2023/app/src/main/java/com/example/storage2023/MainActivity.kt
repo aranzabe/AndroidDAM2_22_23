@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity() {
      * Método que descarga el fichero usando un archivo temporal.
      */
     fun fileDownload() {
-        var spaceRef = storageRef.child("images/homer.jpg")
+        var spaceRef = storageRef.child("images/spock.jpg")
 
         val localfile  = File.createTempFile("tempImage","jpg")
         spaceRef.getFile(localfile).addOnSuccessListener {
@@ -108,6 +108,7 @@ class MainActivity : AppCompatActivity() {
         if (requestCode == FICHERO) {
             if (resultCode == RESULT_OK) {
                 val FileUri = data!!.data
+                Log.e("Fernando",FileUri.toString())
                 val Folder: StorageReference =
                     FirebaseStorage.getInstance().getReference().child("images")
                 val file_name: StorageReference = Folder.child("" + FileUri!!.lastPathSegment)
