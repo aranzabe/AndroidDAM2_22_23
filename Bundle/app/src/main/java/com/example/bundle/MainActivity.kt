@@ -24,6 +24,9 @@ class MainActivity : AppCompatActivity() {
 
             //Montamos el intent con el que llamaremos a la segunda activity.
             val inte = Intent(this, MainActivity2::class.java)
+            inte.putExtra("nom",nombre)
+            inte.putExtra("ed",edad)
+            inte.putExtra("per",p)
             //Definimos el Bundle que viajará en el Intent.
             //Opción a)
 //            var b = Bundle()
@@ -32,10 +35,11 @@ class MainActivity : AppCompatActivity() {
 //            b.putSerializable("per",p)
 
             //Opción b)
-            var b = bundleOf("nom" to nombre, "ed" to edad, "per" to p)
+            //var b = bundleOf("nom" to nombre, "ed" to edad, "per" to p)
 
             //Común a las dos opciones.
-            inte.putExtras(b)
+            //inte.putExtras(b)
+
             startActivity(inte)
         }
     }

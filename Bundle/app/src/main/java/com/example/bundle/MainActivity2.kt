@@ -22,6 +22,7 @@ class MainActivity2 : AppCompatActivity() {
         binding.txtA2.append("Edad: ${ed}\n")
         binding.txtA2.append("Persona: ${p}\n")
 
+
         binding.btVolver.setOnClickListener {
             finish()
         }
